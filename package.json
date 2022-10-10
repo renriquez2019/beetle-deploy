@@ -4,7 +4,6 @@
   "description": "A tracker for bugs",
   "main": "server.js",
   "scripts": {
-    "build": "set NODE_OPTIONS=--max-old-space-size=16192",
     "start": "node app.js"
   },
   "repository": {
